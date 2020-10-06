@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  kube-state-metrics:
+  - apiVersion: v1
+    appVersion: 2.0.0
+    created: "2020-10-06T15:06:48.9531748+09:00"
+    description: Install kube-state-metrics to generate and expose cluster-level metrics
+    digest: 09a9e7a9f0ef49453ed51643e72799dc7e142f8e4207c25e4453d2662b945c64
+    home: https://github.com/kubernetes/kube-state-metrics/
+    keywords:
+    - metric
+    - monitoring
+    - prometheus
+    - kubernetes
+    maintainers:
+    - email: jose@armesto.net
+      name: fiunchinho
+    - email: tariq.ibrahim@mulesoft.com
+      name: tariq1890
+    - email: manuel@rueg.eu
+      name: mrueg
+    name: kube-state-metrics
+    sources:
+    - https://github.com/kubernetes/kube-state-metrics/
+    urls:
+    - kube-state-metrics-3.0.0.tgz
+    version: 3.0.0
+generated: "2020-10-06T15:06:48.951111+09:00"

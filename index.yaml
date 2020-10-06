@@ -3,9 +3,9 @@ entries:
   kube-state-metrics:
   - apiVersion: v1
     appVersion: 2.0.0
-    created: "2020-10-06T15:23:37.0550932+09:00"
+    created: "2020-10-06T15:27:20.2445503+09:00"
     description: Install kube-state-metrics to generate and expose cluster-level metrics
-    digest: 8220f1ebbaa92ecc869d67c46fd193141659fb4170a964be3b073f8a823e92e1
+    digest: 7689564a879228da1949cb24bad523159764da61f2847e5f06ba36aa37b63918
     home: https://github.com/kubernetes/kube-state-metrics/
     keywords:
     - metric
@@ -25,4 +25,4 @@ entries:
     urls:
     - kube-state-metrics-3.0.0.tgz
     version: 3.0.0
-generated: "2020-10-06T15:23:37.0540654+09:00"
+generated: "2020-10-06T15:27:20.2432278+09:00"
